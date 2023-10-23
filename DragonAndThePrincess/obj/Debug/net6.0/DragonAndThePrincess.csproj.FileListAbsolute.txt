@@ -1,0 +1,28 @@
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.AssemblyInfoInputs.cache
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.AssemblyInfo.cs
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.csproj.CoreCompileInputs.cache
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.exe
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.deps.json
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.runtimeconfig.json
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.dll
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.pdb
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.dll
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\refint\DragonAndThePrincess.dll
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.pdb
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.genruntimeconfig.cache
+C:\Users\Tim Hahn Colbro\source\repos\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\ref\DragonAndThePrincess.dll
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.exe
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.deps.json
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.runtimeconfig.json
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.dll
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\bin\Debug\net6.0\DragonAndThePrincess.pdb
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.AssemblyInfoInputs.cache
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.AssemblyInfo.cs
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.csproj.CoreCompileInputs.cache
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.dll
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\refint\DragonAndThePrincess.dll
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.pdb
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\DragonAndThePrincess.genruntimeconfig.cache
+C:\Users\jensh\Downloads\DragonAndThePrincess\DragonAndThePrincess\DragonAndThePrincess\obj\Debug\net6.0\ref\DragonAndThePrincess.dll
